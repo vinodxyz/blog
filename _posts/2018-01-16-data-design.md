@@ -10,5 +10,5 @@ Not any more !/
 
 ## Cartography
 As I'm writing this post, anxious thoughts are racing through my head.  
-I've 2 presentations due tomorrow: Narrative cartography and Apps with maps.  
+I've 2 presentations due tomorrow: [Narrative cartography](https://github.com/mapschool/course/issues/30) and [Apps with maps](https://github.com/mapschool/course/issues/31).  
 This blog could serve as a place to document my research and ideas, as well.  
