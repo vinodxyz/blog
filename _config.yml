@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Day-Tuh
 tagline:          'All things data, design & dev related'
-description:      'Notes, appreciations & reflections on daily readings'
+description:      'Notes & reflections on daily readings: data, design & dev'
 url:              http://vinodxyz.github.io
 baseurl:          '/blog/'
 #
