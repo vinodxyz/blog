@@ -22,7 +22,7 @@ Additionally, for other simpler tasks, such as:
 1. [Eventbrite](https://www.eventbrite.com/) lists events happening on a 30km radius, on the basis of categories.
 Primarily a list-based interface with 2 groups of events: trending and free/paid.
 
-![image](../images/eventbrite.jpg)
+![image](/images/eventbrite.jpg)
 User can either choose their area of interest and find relevant events.  
 Or, feel lucky and search for all events.  
 
@@ -30,7 +30,7 @@ Either ways, this interface lacks a map as it's entry point.
 
 2. [Meetup](https://www.meetup.com/) is based on a similar concept.  
 
-![image](../images/meetup.jpg)
+![image](/images/meetup.jpg)
 However, it does have a map with dots as the visual encoding.  
 Selecting a dot displays a card with the event's details.
 
