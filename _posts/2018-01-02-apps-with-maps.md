@@ -18,20 +18,20 @@ Additionally, for other simpler tasks, such as:
 ---
 
 ### Competitors
-1. [Eventbrite](https://www.eventbrite.com/) lists events happening on a 30km radius, on the basis of categories.
+1\. [Eventbrite](https://www.eventbrite.com/) lists events happening on a 30km radius, on the basis of categories.
 Primarily a list-based interface with 2 groups of events: trending and free/paid.
 
 ![image](/blog/images/eventbrite.jpg)
 User can either choose their area of interest and find relevant events.  
 Or, feel lucky and search for all events. Either ways, this interface lacks a map as its entry point.
 
-2. [Meetup](https://www.meetup.com/) is based on a similar concept.  
+2\. [Meetup](https://www.meetup.com/) is based on a similar concept.  
 
 ![image](/blog/images/meetup.jpg)
 However, it does have a map with dots as the visual encoding.  
 Selecting a dot displays a card with the event's details.
 
-3. [Cityhour](http://cityhour.com/) is very similar to Causr.  
+3\. [Cityhour](http://cityhour.com/) is very similar to Causr.  
 Unfortunately, I don't own an iphone and couldn't test this app.
 
 ---
@@ -40,5 +40,7 @@ Unfortunately, I don't own an iphone and couldn't test this app.
 I was a little lost and needed a little inspiration. 
 Lo and behold, Juhi's excellent [write-up](http://juhi.co/hike/) on the design-process behind several Hike's features gave me a lot of insights and ideas.
 
-I jotted down the user-flow and feature-list, for the new app temporarily called "Around"
+Jotting down the **user-flow** and **feature-list**, for the new app:
+
+
 
