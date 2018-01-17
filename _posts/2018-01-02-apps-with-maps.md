@@ -41,6 +41,7 @@ I was a little lost and needed a little inspiration.
 Lo and behold, Juhi's excellent [write-up](http://juhi.co/hike/) on the design-process behind several Hike's features gave me a lot of insights and ideas.
 
 Jotting down the **user-flow** and **feature-list**, for the new app:
-
+![](/blog/images/flow.jpg)
+![](/blog/images/screensv1.jpg)
 
 
