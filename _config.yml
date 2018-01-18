@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Day-Tuh
+title:            DayTah
 tagline:          'All things data, design & dev related'
 description:      'Notes & reflections on daily readings: data, design & dev'
-url:              http://vinodxyz.github.io/blog
+url:              'http://vinodxyz.github.io/blog'
 baseurl:          '/blog/'
 #
 #author:

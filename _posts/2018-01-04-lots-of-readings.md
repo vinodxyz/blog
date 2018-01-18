@@ -39,6 +39,7 @@ This website revealed to me the importance of dataviz in aggregating multiple sc
 
 * [Maps <3 Data](https://speakerdeck.com/rasagy/maps-data-a-voyage-across-the-world-of-geo-visualization)  
 A talk by Rasagy on geovisualization: their types, benefits and examples proved very useful and would be shaping a lot of our projects, this semester.  
+
 * [Event Registry](http://eventregistry.org/search?type=articles)  
 Use map to view news at a particular location. Quite nifty, when the bubble size and color, inform the reader of a potential "breaking" news. This also reminds me of a project by [Jibin](https://www.behance.net/gallery/52516929/UXUI-Concept-for-Google-News).  
 
@@ -50,8 +51,7 @@ Usage of [isochrones](https://www.instagram.com/p/BWSZkt-BqbJ/?taken-by=rasagy.s
 Passiong through 9 Timezones and 18 countries, sounds like quite a walk. Notable is the curved path on a Mercator projection.  
 
 * [Types of projections](https://en.wikipedia.org/wiki/List_of_map_projections)  
-[XKCD](http://www.explainxkcd.com/wiki/index.php/977:_Map_Projections), [Mike Bostock](https://bl.ocks.org/mbostock/29cddc0006f8b98eff12e60dd08f59a7) have had their takes on various projections of earth. Interested? Check out Kai's [Comparing Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e) and Morten's [Morphing Map Projections](http://bl.ocks.org/mortenjohs/4739921).  
-Also, another interesting [read](https://mapzen.com/blog/escape-from-mercator/) explains pitfalls with the Mercator projection and shows experimental web-maps with various projections, courtesy of Tangram.  
+[XKCD](http://www.explainxkcd.com/wiki/index.php/977:_Map_Projections), [Mike Bostock](https://bl.ocks.org/mbostock/29cddc0006f8b98eff12e60dd08f59a7) have had their takes on various projections of earth. Interested? Check out Kai's [Comparing Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e) and Morten's [Morphing Map Projections](http://bl.ocks.org/mortenjohs/4739921). Also, another interesting [read](https://mapzen.com/blog/escape-from-mercator/) explains pitfalls with the Mercator projection and shows experimental web-maps with various projections, courtesy of Tangram.  
 
 
 
