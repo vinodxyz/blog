@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maps - Lots of readings
-permalink: https://vinodxyz.github.io/blog/2018/01/04/lots-of-readings/
+permalink: blog/2018/01/04/lots-of-readings/
 ---
 
 As a part of Cartography, we were exposed to tonnes of fascinating examples.  

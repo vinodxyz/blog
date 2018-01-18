@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Marco polo
+permalink: blog/2018/01/03/marco-polo/
 ---
 
 

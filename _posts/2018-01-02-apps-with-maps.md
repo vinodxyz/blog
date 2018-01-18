@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apps with Maps
+permalink: blog/2018/01/02/apps-with-maps/
 ---
 
 This project was a part of Thematic cartography and geovisualization.  
