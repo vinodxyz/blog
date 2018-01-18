@@ -33,24 +33,26 @@ Recently, everyone has been plagued with Aadhar-link related messages across all
 * [ichangemycity](https://www.ichangemycity.com/bangalore/map/mapcomplaints/)  
 Submit compliants about the City's infrastructure. Switch to the map-based interface to reveal areas riddled with most complaints and the areas that are awesome to live in.  
 
-* [A billion ways of seeing Mumbai](http://akshaykore.github.io/mumdata/about.html)
+* [A billion ways of seeing Mumbai](http://akshaykore.github.io/mumdata/about.html)  
 This website revealed to me the importance of dataviz in aggregating multiple scattered datasets revealed by government and effectively communicate insights to the public, in a very simple way. Add a few datasets on this tool and start exploring. 
 
-* [Maps <3 Data](https://speakerdeck.com/rasagy/maps-data-a-voyage-across-the-world-of-geo-visualization)
+* [Maps <3 Data](https://speakerdeck.com/rasagy/maps-data-a-voyage-across-the-world-of-geo-visualization)  
 A talk by Rasagy on geovisualization: their types, benefits and examples proved very useful and would be shaping a lot of our projects, this semester.  
-* [Event Registry](http://eventregistry.org/search?type=articles)
+* [Event Registry](http://eventregistry.org/search?type=articles)  
 Use map to view news at a particular location. Quite nifty, when the bubble size and color, inform the reader of a potential "breaking" news. This also reminds me of a project by [Jibin](https://www.behance.net/gallery/52516929/UXUI-Concept-for-Google-News).  
 
-* [Isochrones](https://en.wikipedia.org/wiki/Isochrone_map)
+* [Isochrones](https://en.wikipedia.org/wiki/Isochrone_map)  
 Came across this dataviz-type based on travel-times. Is it a heat map?  
 Usage of [isochrones](https://www.instagram.com/p/BWSZkt-BqbJ/?taken-by=rasagy.sharma) in finding duration for accessing no of jobs via Majestic
 
 * [Longest straight land path on Earth](https://www.geospatialworld.net/blogs/whacky-map-shows-longest-straight-path-earth/)  
 Passiong through 9 Timezones and 18 countries, sounds like quite a walk. Notable is the curved path on a Mercator projection.  
 
-* [Types of projections](https://en.wikipedia.org/wiki/List_of_map_projections)
+* [Types of projections](https://en.wikipedia.org/wiki/List_of_map_projections)  
 [XKCD](http://www.explainxkcd.com/wiki/index.php/977:_Map_Projections), [Mike Bostock](https://bl.ocks.org/mbostock/29cddc0006f8b98eff12e60dd08f59a7) have had their takes on various projections of earth. Interested? Check out Kai's [Comparing Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e) and Morten's [Morphing Map Projections](http://bl.ocks.org/mortenjohs/4739921).  
-Also, another interesting read on the escape from [Mercator](https://mapzen.com/blog/escape-from-mercator/).
+Also, another interesting [read](https://mapzen.com/blog/escape-from-mercator/) explains pitfalls with the Mercator projection and shows experimental web-maps with various projections, courtesy of Tangram.  
+
+
 
 
 
